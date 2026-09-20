@@ -1,36 +1,333 @@
 {
+  "meta": {
+    "brand": "Cinderella",
+    "brandAr": "سندريلا",
+    "version": 1,
+    "lastUpdated": "2026-09-20",
+    "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+    "authorityEn": "Saudi Food and Drug Authority"
+  },
   "certificates": {
-    "FC001250M": {
-      "sku": "FC001250M",
-      "nameAr": "كريم سندريلا للوجه",
-      "nameEn": "Cinderella Face Cream",
-      "officialName": "Cinderella Face Cream",
-      "notificationNumber": "CN-2026-91479",
-      "categoryAr": "منتجات العناية بالبشرة",
+    "BC001400M": {
+      "sku": "BC001400M",
+      "officialName": "Cinderella Body Cream",
+      "nameAr": "كريم الجسم سندريلا 400 جرام",
+      "nameEn": "Cinderella Body Cream 400 g",
+      "categoryAr": "منتجات البشرة",
       "categoryEn": "Skin products",
-      "documentTypeAr": "اخطار تسويق منتج تجميلي",
-      "documentTypeEn": "Cosmetic Product Notification Certificate",
-      "issueDate": "2026-07-23",
-      "expiryDate": "2031-07-23",
-      "authorityAr": "الهيئة العامة للغذاء والدواء",
+      "notificationNumber": "CN-2026-92139",
+      "issueDate": "2026-07-25",
+      "expiryDate": "2031-07-25",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
       "authorityEn": "Saudi Food and Drug Authority",
-      "image": "FC001250M.png"
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": "BC001400M.png"
     },
     "FC001100M": {
       "sku": "FC001100M",
-      "nameAr": "كريم سندريلا للوجه",
-      "nameEn": "Cinderella Face Cream",
       "officialName": "Cinderella Face Cream",
-      "notificationNumber": "CN-2026-91479",
-      "categoryAr": "منتجات العناية بالبشرة",
+      "nameAr": "كريم الوجه سندريلا 100 جرام",
+      "nameEn": "Cinderella Face Cream 100 g",
+      "categoryAr": "منتجات البشرة",
       "categoryEn": "Skin products",
-      "documentTypeAr": "اخطار تسويق منتج تجميلي",
-      "documentTypeEn": "Cosmetic Product Notification Certificate",
+      "notificationNumber": "CN-2026-92097",
+      "issueDate": "2026-07-25",
+      "expiryDate": "2031-07-25",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": "FC001100M.png"
+    },
+    "FC001250M": {
+      "sku": "FC001250M",
+      "officialName": "Cinderella Face Cream",
+      "nameAr": "كريم الوجه سندريلا 250 جرام",
+      "nameEn": "Cinderella Face Cream 250 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-91479",
       "issueDate": "2026-07-23",
       "expiryDate": "2031-07-23",
-      "authorityAr": "الهيئة العامة للغذاء والدواء",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
       "authorityEn": "Saudi Food and Drug Authority",
-      "image": "FC001100M.png"
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": "FC001250M.png"
+    },
+    "BM001400M": {
+      "sku": "BM001400M",
+      "officialName": "Cinderella Moisturizing Cream",
+      "nameAr": "كريم الترطيب سندريلا 400 جرام",
+      "nameEn": "Cinderella Moisturizing Cream 400 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-101197",
+      "issueDate": "2026-08-16",
+      "expiryDate": "2031-08-16",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": "BM001400M.png"
+    },
+    "STB0023": {
+      "sku": "STB0023",
+      "officialName": "MASK ZWINA With Nila Zarka",
+      "nameAr": "مجموعة قناع النيلة",
+      "nameEn": "Nila Mask Set",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2024-132823",
+      "issueDate": "2024-12-23",
+      "expiryDate": "2029-12-23",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "مؤسسة منيرة ضاحي بن سعود الراشدي لمستحضرات التجميل",
+      "notifierEn": "MONIRA DAHY BIN SOUD AL RASHEDY COSMETICS ESTABLISHMENT",
+      "status": "active",
+      "image": "STB0023.png"
+    },
+    "STB001": {
+      "sku": "STB001",
+      "officialName": "MASK ZWINA With Aker Fassi",
+      "nameAr": "قناع زوينة بالعكر الفاسي",
+      "nameEn": "Zwina Mask with Aker Fassi",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2024-133399",
+      "issueDate": "2024-12-24",
+      "expiryDate": "2029-12-24",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "مؤسسة منيرة ضاحي بن سعود الراشدي لمستحضرات التجميل",
+      "notifierEn": "MONIRA DAHY BIN SOUD AL RASHEDY COSMETICS ESTABLISHMENT",
+      "status": "active",
+      "image": "STB001.png"
+    },
+    "EB001400M": {
+      "sku": "EB001400M",
+      "officialName": "Cenrilla Foaming Scrub",
+      "nameAr": "مقشر سندريلا 400 جرام",
+      "nameEn": "Cinderella Foaming Scrub 400 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-101554",
+      "issueDate": "2026-08-17",
+      "expiryDate": "2031-08-17",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": "EB001400M.png"
+    },
+    "BC001280M": {
+      "sku": "BC001280M",
+      "officialName": "Cinderella Body Cream",
+      "nameAr": "كريم الجسم سندريلا 280 جرام",
+      "nameEn": "Cinderella Body Cream 280 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-91771",
+      "issueDate": "2026-07-24",
+      "expiryDate": "2031-07-24",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": ""
+    },
+    "BM001280M": {
+      "sku": "BM001280M",
+      "officialName": "Cinderella Moisturizing Cream",
+      "nameAr": "كريم الترطيب سندريلا 280 جرام",
+      "nameEn": "Cinderella Moisturizing Cream 280 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-101464",
+      "issueDate": "2026-08-17",
+      "expiryDate": "2031-08-17",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": ""
+    },
+    "EB001280M": {
+      "sku": "EB001280M",
+      "officialName": "Cinderella Foaming Scrub",
+      "nameAr": "مقشر سندريلا الرغوي 280 جرام",
+      "nameEn": "Cinderella Foaming Scrub 280 g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "CN-2026-101656",
+      "issueDate": "2026-08-17",
+      "expiryDate": "2031-08-17",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "إشعار تسويق منتج تجميلي",
+      "documentTypeEn": "Certificate for Cosmetic Product Notification",
+      "notifierAr": "شركة عالم التجميل للصناعة",
+      "notifierEn": "Company ANTHONY ALTAJMIL For Manufacturing",
+      "status": "active",
+      "image": ""
+    },
+    "BO001": {
+      "sku": "BO001",
+      "officialName": "",
+      "nameAr": "زيت التفتيح من سندريلا",
+      "nameEn": "Cinderella Lightening Oil",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "",
+      "issueDate": "",
+      "expiryDate": "",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "سيتم تحديث بيانات التصريح قريبًا",
+      "documentTypeEn": "Certificate details will be added soon",
+      "notifierAr": "",
+      "notifierEn": "",
+      "status": "pending",
+      "image": ""
+    },
+    "S001400M": {
+      "sku": "S001400M",
+      "officialName": "",
+      "nameAr": "صابونية سندريلا بالعكر الفاسي للجسم 400 جرام",
+      "nameEn": "Cinderella Fasi Silt Body Soap 400g",
+      "categoryAr": "منتجات البشرة",
+      "categoryEn": "Skin products",
+      "notificationNumber": "",
+      "issueDate": "",
+      "expiryDate": "",
+      "authorityAr": "الهيئة العامة للغذاء والدواء السعودية",
+      "authorityEn": "Saudi Food and Drug Authority",
+      "documentTypeAr": "سيتم تحديث بيانات التصريح قريبًا",
+      "documentTypeEn": "Certificate details will be added soon",
+      "notifierAr": "",
+      "notifierEn": "",
+      "status": "pending",
+      "image": ""
+    }
+  },
+  "packages": {
+    "STB001280S3": {
+      "sku": "STB001280S3",
+      "nameAr": "بكج مبيض اليدين - الحجم الصغير",
+      "nameEn": "Hand whitening package small size 280g per box",
+      "sizeAr": "280 جرام للعلبة الواحدة",
+      "sizeEn": "280g per box",
+      "products": [
+        {
+          "sku": "BC001280M"
+        },
+        {
+          "sku": "BM001280M"
+        },
+        {
+          "sku": "",
+          "nameAr": "صابونية سندريلا 280 جرام",
+          "nameEn": "Cinderella Soap 280 g",
+          "status": "pending"
+        }
+      ]
+    },
+    "STB001400MB3": {
+      "sku": "STB001400MB3",
+      "nameAr": "بكج مبيض الجسم الحجم الكبير 400 جرام",
+      "nameEn": "Large-Size Body Whitening Package (400g)",
+      "sizeAr": "400 جرام للعلبة الواحدة",
+      "sizeEn": "400g per box",
+      "products": [
+        {
+          "sku": "BC001400M"
+        },
+        {
+          "sku": "BM001400M"
+        },
+        {
+          "sku": "S001400M"
+        }
+      ]
+    },
+    "STB001280S5": {
+      "sku": "STB001280S5",
+      "nameAr": "مجموعة سندريلا المبيضه الكامله الحجم 280 الصغير",
+      "nameEn": "Cinderella complete whitening set size 280 Small",
+      "descriptionAr": "كريم وجه 100 جرام، كريم جسم 280 جرام، كريم ترطيب 280 جرام، مقشر رغوي 280 جرام، وصابونية 280 جرام.",
+      "descriptionEn": "Face Cream 100g, Body Cream 280g, Moisturizing Cream 280g, Foaming Scrub 280g, and Soap 280g.",
+      "products": [
+        {
+          "sku": "FC001100M"
+        },
+        {
+          "sku": "BC001280M"
+        },
+        {
+          "sku": "BM001280M"
+        },
+        {
+          "sku": "EB001280M"
+        },
+        {
+          "sku": "",
+          "nameAr": "صابونية سندريلا 280 جرام",
+          "nameEn": "Cinderella Soap 280 g",
+          "status": "pending"
+        }
+      ]
+    },
+    "STB001400MB5": {
+      "sku": "STB001400MB5",
+      "nameAr": "عرض مجموعة التبيض الكامله الحجم الكبير 400g",
+      "nameEn": "Complete Cinderella whitening set 400g",
+      "descriptionAr": "كريم وجه 250 جرام، كريم جسم 400 جرام، كريم ترطيب 400 جرام، مقشر 400 جرام، وصابونية 400 جرام.",
+      "descriptionEn": "Face Cream 250g, Body Cream 400g, Moisturizing Cream 400g, Scrub 400g, and Soap 400g.",
+      "products": [
+        {
+          "sku": "FC001250M"
+        },
+        {
+          "sku": "BC001400M"
+        },
+        {
+          "sku": "BM001400M"
+        },
+        {
+          "sku": "EB001400M"
+        },
+        {
+          "sku": "S001400M"
+        }
+      ]
     }
   }
 }
+    
